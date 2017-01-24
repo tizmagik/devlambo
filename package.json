@@ -1,0 +1,7 @@
+{
+  "name": "devlambo",
+  "version": "1.0.0",
+  "devDependencies": {
+    "surge": "^0.18.0"
+  }
+}
